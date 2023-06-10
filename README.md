@@ -1,4 +1,3 @@
-![backround_linkedin](https://github.com/Nicolas14200/Nicolas14200/assets/128129649/1e912d90-78f9-48ec-a19f-6a8243a1f183)
 - 👋 Hi, I’m @Nicolas14200
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,3 +8,4 @@
 Nicolas14200/Nicolas14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![fotor-ai-20230605114319](https://github.com/Nicolas14200/Nicolas14200/assets/128129649/ca526f06-a9c6-4135-af21-5161921ab3c5)
