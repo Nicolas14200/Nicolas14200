@@ -6,9 +6,9 @@
 - 👀 I am interested in advanced programming concept such as BDD, DDD, ATDD, TDD ...
 - 📫 How to reach me heutte.nicolas@laposte.net.
 
-https://i.gifer.com/BtVJ.gif
-<!---
-Nicolas14200/Nicolas14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+
+  
+  
+  ![BtVJ](https://github.com/Nicolas14200/Nicolas14200/assets/128129649/160e188c-0ec7-49ac-b6a9-6a073e928bc8)
+	
