@@ -1,5 +1,5 @@
-                            👋 Hi, I’m @Nicolas14200 
-                          Freelance developer back-end,
+                                                👋 Hi, I’m @Nicolas14200 
+                                              Freelance developer back-end,
 - 👀 I am interested in advanced programming concept such as BDD, DDD, ATDD, TDD ...
 - 📫 How to reach me heutte.nicolas@laposte.net.
 
