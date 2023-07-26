@@ -17,13 +17,13 @@ Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régu
 <img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 </p>
 
-# J'ai déjà participé àe nombreux projet comme :
+# J'ai déjà participé à de nombreux projet comme :
   * AppVTC, le back-end d'une application pour faire du covoiturage sur le marché lituanien.
-  * Digital culture manager, un gestionnaire de culture permettant d'enregistrer different type événement comme des apports       d'engrais, travail du sol...etc, pour les agriculteurs bio.
+  * Digital culture manager, un gestionnaire de culture permettant d'enregistrer différent type événement comme des apports       d'engrais, travail du sol...etc, pour les agriculteurs bio.
   * OrderRecap, une application pour faire le récapitulatif de commande à partir de différents fichiers xls.
   * BettingApp, une application de pari sportif.
   * Car7 valet, le back-end d'une application de location de chauffeur pour voiture de location.
-  * BeMyBe, une applicaiton pour echangé des service gratuitement.
+  * BeMyBe, une aplicaiton pour échangé des service gratuitement.
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/IMdS79sQINRAY/giphy.gif" />
 </p>
