@@ -23,7 +23,7 @@ Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régu
   * OrderRecap, une application pour faire le récapitulatif de commande à partir de différents fichiers xls.
   * BettingApp, une application de pari sportif.
   * Car7 valet, le back-end d'une application de location de chauffeur pour voiture de location.
-  * BeMyBe, une aplicaiton pour échangé des service gratuitement.
+  * BMyBee, une applicaiton pour échangé des service gratuitement.
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/IMdS79sQINRAY/giphy.gif" />
 </p>
