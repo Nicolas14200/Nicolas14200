@@ -1,4 +1,4 @@
-                                              
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)                                       
 <p align="center">
 Bienvenue,👋
 Je suis Heutte Nicolas.
