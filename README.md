@@ -14,6 +14,7 @@ Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régu
 <div style="display: inline-block; margin-right:20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="60" height="60"/>
 </div>
 
 
