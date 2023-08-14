@@ -12,7 +12,7 @@ Je suis développeur back-end NodeJS !!!
 Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régulière des tests unitaires, des tests d'intégration et des tests end-to-end garantit la qualité du code. 
 </p>
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg  width="20" height="20")
 
 
    
