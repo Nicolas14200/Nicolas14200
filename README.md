@@ -13,7 +13,7 @@ Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régu
 </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)![JavaScript](https://img.shields.io/badge/-Node-Js)
-![JavaScript]([[https://img.shields.io/badge/-Node-Js](https://nodejs.org)](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
 
 
    
