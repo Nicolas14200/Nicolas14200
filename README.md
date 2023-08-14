@@ -1,15 +1,15 @@
 <p align="center">
-Bienvenue,👋
-Je suis Heutte Nicolas.
+Welcome, 👋
+I'm Nicolas Heutte.
 </p>
 </p>                                        
 <p align="center">
-Je suis développeur back-end NodeJS !!!
+I am a NodeJS back-end developer !!!
 </p>
 
 
 <p align="center">
-Adepte des principes SOLID ainsi que de la clean architecture, ma pratique régulière des tests unitaires, des tests d'intégration et des tests end-to-end garantit la qualité du code. 
+A follower of SOLID principles and a proponent of clean architecture, my regular practice of unit testing, integration testing, and end-to-end testing ensures code quality.
 </p>
 <div style="display: inline-block; margin-right:20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="60" height="60"/>
