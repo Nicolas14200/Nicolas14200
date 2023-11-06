@@ -25,7 +25,6 @@ A follower of SOLID principles and a proponent of clean architecture, my regular
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Typescript" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/115704191/209810703-50bd1ef5-c813-474f-a9b5-802fb354c536.png" alt="Typescript" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/115704191/209805849-fe6a542d-3381-4c98-af0d-48edc0a96c31.png" alt="Typescript" width="60" height="60"/>
-<img src="https://user-images.githubusercontent.com/115704191/209806585-02462629-0d16-4857-b6e4-6d1f8ca503c8.png" alt="Typescript" width="60" height="60"/>
 </div>
 
 
